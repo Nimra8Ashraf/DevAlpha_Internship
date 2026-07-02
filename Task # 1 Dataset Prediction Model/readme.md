@@ -101,8 +101,3 @@ The regression model successfully predicts stock closing prices based on histori
 - Exploratory Data Analysis
 - Model evaluation
 - Data visualization
-
-
-**Nimra Ashraf**
-
-Machine Learning Internship Project
